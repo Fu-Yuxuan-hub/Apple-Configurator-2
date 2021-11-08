@@ -3,7 +3,7 @@
 # 1. 准备和要求
 1. 一台额外的 Mac，我们这里称之为 “主 Mac”，配备 Type-C 接口，Intel 芯片和 Apple 芯片都可以
 2. 系统版本 macOS Catalina 10.15.6 及以上
-3. 下载 Apple Configurator 2
+3. 下载 Apple Configurator 2(https://apps.apple.com/cn/app/apple-configurator-2/id1037126344?mt=12)
 4. 下载 IPSW （可选），macOS Big Sur IPSW 下载
 Apple Configurator 2 将自动下载 ipsw 固件（类似 iOS），可以使用下载管理器高速下载保存，直接拖拽到 Apple Configurator 2 中进行恢复。
 5. USB-C to USB-C Cable：支持的 USB-C 转 USB-C 充电线，如 由 Apple 售卖的产品
