@@ -1,5 +1,4 @@
 # Apple-Configurator-2
-https://sysin.org/blog/apple-silicon-mac-dfu/
 在 Apple Silicon Mac 上 DFU 模式恢复 macOS 固件
 # 1. 准备和要求
 1. 一台额外的 Mac，我们这里称之为 “主 Mac”，配备 Type-C 接口，Intel 芯片和 Apple 芯片都可以
